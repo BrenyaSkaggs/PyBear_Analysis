@@ -29,7 +29,9 @@ The data below is covering 01/01/2019 to 04/29/2019.
     * $24.53 average fare per ride 
     * $16.57 average fare per driver
     
-    Let's break down the fare by week. The table below provides 10 dates and the break down of weekly share by type of city.
+    
+    
+Let's break down the fare by week. The table below provides 10 dates and the break down of weekly share by type of city.
 ![This is an image](https://raw.githubusercontent.com/BrenyaSkaggs/PyBear_Analysis/main/Analysis/Fares%20by%20Week%20.png)
 
 
